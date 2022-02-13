@@ -1,2 +1,2 @@
-# APP-Cadastro-S-ries
+# APP-Cadastro-Séries
 APP para controle e cadastro de série
